@@ -63,4 +63,3 @@ Research Interest: Machine Learning, Cybersecurity
 
 ### Supervisor
 **Jubair Ahmed Nabin**  
-Department of CSE, IUBAT
